@@ -21,6 +21,16 @@
 
 **German** Modalverben, unregelmäßigen und starken Verben, fortgesetzt; Noten organisieren. Heute abend Lektion mit Tomasz Zalewski.
 
+### Day 2: February 11, 2019
+##### (obstacles' growing even more)
+
+**Today's Progress**: as yesterday all section of #Javascript30, this time 3. Playing with CSS Variables and JS [ https://tdudkowski.github.io/JavaScript30/3.Playing-with-CSS-Variables-and-JS/ ], from the reason unknow it doesn't work on smartphones, big FAIL. 3nd chapter of Eloquent JS read, and exercises done.
+
+**Thoughts:** already tired, the only fun is in learning new things, and it - really, really - counts.
+
+**German** Noten organisieren.
+
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
