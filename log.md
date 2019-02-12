@@ -30,6 +30,15 @@
 
 **German** Noten organisieren.
 
+### Day 3: February 12, 2019
+##### (do not complain)
+
+**Today's Progress**: as yesterday all section of #Javascript30, this time Array Cardio Day 1, but instead of exercises I've made list of methods of an array. 4nd chapter of Eloquent JS read, and one exercise done. I should repeat it tommorow. No reason to run faster than comprehension of a material.
+
+**Thoughts:** now I've started to understand what is a work at the basis. Probably.
+
+**German** Noten organisieren. Yep.
+
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
