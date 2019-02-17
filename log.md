@@ -39,6 +39,42 @@
 
 **German** Noten organisieren. Yep.
 
+### Day 4: February 13, 2019
+##### (math is hard)
+
+**Today's Progress**: finally stucked at Eloquent JS, one chapter more and later back to understand all and make all exercises. JS30: this day Flex Panel Img Gallery;
+
+**Thoughts:** 5% passed
+
+**German** Verben
+
+### Day 5: February 14, 2019
+##### (concentrate n practice)
+
+**Today's Progress**: 6&7 part of Wes Bos course done, 6th chapter of Eloquent JS read, todays, I've made 1st function w/ promise...
+
+**Thoughts:** ... and I promise to make more practice than theory; theory is great but it has to walk on earth
+
+**German** Verben.
+
+### Day 6: February 15, 2019
+##### (easy day is a lost day)
+
+**Today's Progress**: 3 exercises from JavaScript30, and some reading.
+
+**Thoughts:** even tedious work can be satisfying not only by its end, video player I resign to do this day occured quite nice.
+
+**German** Verben
+
+### Day 7: February 16, 2019
+##### (too much is too much)
+
+**Today's Progress**: 4th chapter Eloquent JS read again, and I'm really surprised how much i lost at first reading; 5 exercises form JavaScript30 done, so now it it 15/30, I'm just in the middle
+
+**Thoughts:** balance!
+
+**German** lost in that, all time around taken by JS
+
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
