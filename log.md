@@ -75,6 +75,24 @@
 
 **German** lost in that, all time around taken by JS
 
+### Day 8: February 17, 2019
+##### (fine sunday break)
+
+**Today's Progress**: Change! Started my own project instead of routine. That'll be BIG, now it's is only a start input/output data of a Memory Game.
+
+**Thoughts:** balance achieved
+
+**German** lost in that, all time around taken by JS
+
+### Day 9: February 18, 2019
+##### (too much again)
+
+**Today's Progress**: Next 5 exercises from Wes Bos course done, I'm not happy on the result, but whatever 20/30 means I'm near the end
+
+**Thoughts:** result is result
+
+**German** never ever use the world 'tommorow' ooops, lost this game again
+
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
