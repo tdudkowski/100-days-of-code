@@ -93,6 +93,59 @@
 
 **German** never ever use the world 'tommorow' ooops, lost this game again
 
+### Day 10: February 19, 2019
+##### (I'm not a diaryst)
+
+**Today's Progress**: added counter to Github Page, 5 next exercises done, only 5 left to do
+
+**Thoughts:** now I see there's one day lost, too messed
+
+**German** null
+
+### Day 11: February 20, 2019
+##### (looking for a ay lost)
+
+**Today's Progress**: OK, i found this day, on twitter I've added two days as a 9th day, so now I should add one, eeer whatever; new date counter script, new design project page, almost finished js30
+
+**Thoughts:** more optimism, less results
+
+**German** null, all hands on js
+
+### Day 12: Feruary 21, 2019
+##### (big day? in a way)
+
+**Today's Progress**: heh, all js30 exercises done, not a big style though
+
+**Thoughts:** discipline is the hardest task
+
+**German** null, as yesterday
+
+### Day 13: February 22, 2019
+##### (completism)
+
+**Today's Progress**: all what I've done placed in files, files put in Gihub, never thought it is so time consuming
+
+**Thoughts:** many little tasks == much time
+
+**German** null, as yesterday
+
+### Day 14, February 23, 2019
+##### (completism, but it had to be done)
+
+**Today's Progress**: all projects revised, counted, summary written, to-do described
+
+**Thoughts:** not very impressing good bye
+
+**German** null, as yesterday
+
+### Day 15, February 24, 2019
+##### (yaay! new stuff)
+
+**Today's Progress**: intro page with setTimeout and typewriter
+
+**Thoughts:** start is nicer than tedious ending
+
+**German** null, as yesterday null
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
